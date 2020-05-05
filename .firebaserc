@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-cart-demo-1f911": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-cart-demo-1f911"
+        ]
+      }
+    }
+  }
+}
